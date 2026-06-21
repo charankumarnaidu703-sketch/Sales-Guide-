@@ -108,6 +108,16 @@ Since It is a Demo Website we have this Constraints & Limitations
 
 
 
+## 7. Fair Pricing & Monthly Maintenance Fee
+
+*   **Bespoke Selling Price (One-Time codebase license):** **$350 – $450**
+    *   *Why this range:* Since the website is designed as a highly optimized, custom-branded editorial multi-page React application, a price of $350–$450 offers a highly affordable entry point for selling the full codebase template. It provides immediate value with built-in advanced features (touch-friendly comparison sliders, animated stats counters, and interactive estimators) that typically cost thousands of dollars to build from scratch.
+*   **Monthly Maintenance Fee:** **$150/month**
+    *   *Why this rate:* This ongoing support package is all-inclusive and covers:
+        1.  **Website Maintenance (Domain & Hosting):** Administrative oversight of domain name systems and high-speed scalable cloud hosting infrastructure (e.g. Vercel) to ensure constant uptime.
+        2.  **Developer Maintenance:** Active development support to improve the website according to your ongoing business requirements and keep the codebase updated and secure with the latest web technologies.
+
+---
 ## Glossary of Technical Terms
 
 *   **React:** A programming framework used to build interactive, fast user interfaces that change elements dynamically without reloading the entire page.
