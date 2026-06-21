@@ -126,3 +126,6 @@ Since It is a Demo Website we have this Constraints & Limitations
 *   **CSS clip-path:** A layout style instruction that masks parts of an image, used in the before/after slider to cleanly show half of the "before" and half of the "after" image simultaneously.
 *   **Tailwind CSS:** A modern visual styling framework used to write clean layout code (margins, colors, fonts) directly inside the website components.
 *   **Single-Page Application (SPA) / Client-side Routing:** A web development method where navigating between pages (Home, Process, Estimator) happens instantly inside the browser without causing the screen to reload or display a blank page.
+
+
+**Site Url:** https://verdant-landscape-architecture.vercel.app/
