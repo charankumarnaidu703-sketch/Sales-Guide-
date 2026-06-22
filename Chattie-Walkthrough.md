@@ -136,6 +136,51 @@ Every software has limits. To build trust, here are Chattie's current constraint
 *   **No Native Calendar Sync:** The dashboard allows logging follow-up dates in Call Notes and tracking stale leads, but it does not yet feature a calendar view or direct two-way sync with Google Calendar or Calendly in the interface.
 
 ---
+---
+
+## 7. Pricing Structure & Operational Costs
+
+To deliver a fully customized, production-ready system, the pricing is divided into a one-time setup fee, third-party infrastructure requirements, and ongoing developer support.
+
+### Cost Breakdown Overview
+
+| Service / Component | Cost | Frequency | Details & Requirements |
+| :--- | :--- | :--- | :--- |
+| **Custom Dashboard & Automation Build** | **$500.00** | One-time | Building the Next.js CRM dashboard and tailoring n8n workflows to custom client requirements. |
+| **Developer Support** | **$100.00** | Monthly | Ongoing maintenance, system health monitoring, and technical support. |
+| **n8n Workflow Automation (VPS)** | **$6.00 – $7.00** | Monthly | Virtual Private Server hosting fee to run the self-hosted n8n engine. |
+| **Database & Backend (Supabase)** | **$25.00** | Monthly | Supabase Pro plan for database hosting, backups, and real-time synchronization. |
+| **Vercel Frontend Hosting** | **$0.00 / $20.00** | Monthly | Hobby plan is free. Optional Pro plan is $20/month for team features and enhanced bandwidth. |
+| **Meta Developer Account (WhatsApp)** | **$0.00 + Usage** | Variable | Free setup and free within 24-hr windows. Template configuration costs **$2.00 – $4.00** per template. |
+| **Google Cloud APIs (Gmail & Drive)** | **$0.00 + Usage** | Variable | Free for the first 3 months (requires credit card for signup). Pay-as-you-go based on usage thereafter. |
+| **Google Gemini API Key (AI Engine)** | **Pay-as-you-go** | Variable | Configured via Google Cloud. Cost scale depends entirely on AI message traffic volume. |
+
+---
+
+### Detailed Fee Breakdown
+
+#### 1. One-Time Setup & Development Fee ($500)
+This covers the complete implementation of the solution tailored specifically to your business workflows. It includes:
+*   Building and styling the Next.js operations dashboard.
+*   Designing and deploying the database structure in Supabase.
+*   Configuring custom automation pipelines (WhatsApp & Gmail classification) in n8n.
+*   Integrating custom service regions, company info, and pricing rules into the AI knowledge base.
+
+#### 2. Infrastructure & Tooling Costs (Client-Owned Accounts)
+To ensure data privacy and long-term autonomy, the client registers their own developer accounts. The operational costs include:
+*   **n8n Automation Engine:** Self-hosted on a Virtual Private Server (VPS) at **$6.00 to $7.00/month** to avoid high SaaS plan fees.
+*   **Database (Supabase):** Run on the Pro plan at **$25.00/month** to guarantee resource safety, automated backups, and database stability.
+*   **Frontend Hosting (Vercel):** Starts on the **Hobby (Free) plan**, which is sufficient for initial volumes. Can switch to the **Pro plan ($20.00/month)** for more robust usage requirements.
+*   **WhatsApp API (Meta Developer Platform):** Meta does not charge a subscription fee for the WhatsApp Business API. Incoming messages and normal replies within a 24-hour window are free. Messages initiated outside the 24-hour window using template configurations incur a fee of **$2.00 to $4.00** depending on the specific template setup and volume.
+*   **Google Cloud Platform & Workspace APIs:** Used for Gmail integration, Call Logs sync, and Gemini API keys. Google Cloud offers a **free tier and credits for the first 3 months** (credit card required for verification). After the trial period, billing is pay-as-you-go and generally negligible under standard business volumes.
+
+#### 3. Monthly Maintenance & Developer Support ($100)
+A recurring monthly support fee of **$100.00** covers:
+*   General maintenance and monitoring of n8n automation stability.
+*   Handling OAuth token refreshes (e.g., Google or WhatsApp connection updates).
+*   Troubleshooting and assistance with minor prompt tuning or adjustments to the company knowledge base.
+
+---
 
 
 
