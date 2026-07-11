@@ -40,19 +40,10 @@ The Representative is authorized to promote the following proprietary products d
 
 ### A. Verdant (Premium Web Platform)
 *   **Target Segment:** Landscaping, outdoor design, and structural stonemasonry agencies that currently have no website, use outdated templates, or lack commercial credibility.
-*   **Key Capabilities:**
-    *   **Architectural-Grade Design:** Moves away from generic templates, presenting landscaping projects as high-value capital investments using premium typography (`Outfit` and `JetBrains Mono`) and an organic, muted palette.
-    *   **B2B Filtering & Qualification:** Incorporates structured B2B tools like a postcode service eligibility validator and a detailed "Estate Estimator" (measuring acreage, gradient, and budget parameters) to filter out low-ticket residential callers.
-    *   **Draggable Before/After Comparison:** Built-in GPU-accelerated slider using responsive clip-paths, allowing clients to touch-swipe between raw excavation and completed luxury masonry.
-    *   **Process Guide Timeline:** A stepped, interactive timeline detailing the exact engineering and botanical phases of estate development (e.g., surveying, CAD/hydraulic simulation, laser grading).
-
+*   **Walkthrough:** https://github.com/charankumarnaidu703-sketch/Sales-Guide-/blob/main/VERDANT%20Project%20Walkthrough.md
 ### B. Chattie (AI-Powered Lead Automation System)
 *   **Target Segment:** Businesses looking to capture missed opportunities and eliminate late-night administrative workloads.
-*   **Key Capabilities:**
-    *   **Unified Communications Dashboard:** Pulls all inbound inquiries from WhatsApp, email, and web forms into a single, cohesive inbox.
-    *   **24/7 AI Receptionist:** Auto-replies to incoming leads instantly with a context-aware AI agent. The bot answers common inquiries, shares product portfolios, and pre-qualifies budget ranges.
-    *   **Calendar Syncing & Booking:** Integrates with team schedules to book site visits and consultations directly onto the contractor’s calendar on autopilot.
-    *   **Work-Life Recovery:** Saves business owners an average of 2–3 hours of administrative follow-up every evening, allowing their front desk to run autonomously.
+*   **Walkthrough:** https://github.com/charankumarnaidu703-sketch/Sales-Guide-/blob/main/Chattie-Walkthrough.md
 
 ---
 
