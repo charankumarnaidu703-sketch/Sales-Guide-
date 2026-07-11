@@ -1,13 +1,5 @@
 # INDEPENDENT SALES REPRESENTATIVE AGREEMENT
 
-This Independent Sales Representative Agreement (the **"Agreement"**) is entered into and made effective as of the date of execution (the **"Effective Date"**), by and between:
-
-**THE COMPANY:**  
-**R. Siva Naga Charan Kumar** (hereinafter referred to as the **"Company"** or **"Principal"**), and
-
-**THE REPRESENTATIVE:**  
-[Sales Representative Name] (hereinafter referred to as the **"Representative"**).
-
 ---
 
 ## RECITALS
@@ -98,26 +90,4 @@ The parties agree that the Representative is performing services solely as an **
 
 ---
 
-## 8. SIGNATURES & EXECUTION
 
-IN WITNESS WHEREOF, the parties hereto have executed this Independent Sales Representative Agreement.
-
-<br>
-
-**THE COMPANY:**
-
-_________________________________________  
-**R. Siva Naga Charan Kumar**  
-Founder / Principal  
-
-Date: ___________________________________
-
-<br>
-
-**THE REPRESENTATIVE:**
-
-_________________________________________  
-**[Sales Representative Name]**  
-Independent Sales Representative  
-
-Date: ___________________________________
